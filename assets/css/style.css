@@ -3203,6 +3203,13 @@ h6, .h6 {
 .desk-logo {
   max-width: 180px;
 }
+
+.true-minds-heading {
+  font-size: 50px !important;
+}
+.welcome-to-text{
+  font-size: 20px !important;
+}
 .main-header {
   position: relative;
   left: 0px;
@@ -3949,7 +3956,7 @@ h6, .h6 {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   text-transform: uppercase; }
   @media only screen and (max-width: 1299px) {
     .hero-content-two h1 {
